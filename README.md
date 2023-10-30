@@ -80,17 +80,24 @@ I also like
 
 ## Pyschology and Cognitive Science
 
+* COG SCI C127/PSYCH C127: Cognitive Neuroscience
 * PSYCH 110: Introduction to Biological Psychology
+* COG SCI C102/PSYCH C129: Scientific Approaches to Consciousness
 * PSYCH 117: Human Neuropsychology
-* PSYCH 124: The Evolution of Human Behavior
 * PSYCH 125: The Developing Brain
-* PSYCH 130: Clinical Psychology
-<!-- * PSYCH 131: Developmental Psychopathology -->
 * PSYCH 140: Developmental Psychology
-<!-- * PSYCH 141: Development During Infancy -->
+* COG SCI C100/PSYCH C120: Basic Issues in Cognition
+* PSYCH 124: The Evolution of Human Behavior
+* PSYCH 130: Clinical Psychology
 * PSYCH 160: Social Psychology
-<!-- * PSYCH 164: Social Cognition -->
+* PSYCH C162/L&S C160V: Human Happiness
+* COG SCI C126/PSYCH C126: Perception
 
+<!--
+* PSYCH 131: Developmental Psychopathology
+* PSYCH 141: Development During Infancy
+* PSYCH 164: Social Cognition
+-->
 ## Other
 
 * ECON 162: The Chinese Economy
