@@ -98,6 +98,16 @@ I also like
 * PSYCH 141: Development During Infancy
 * PSYCH 164: Social Cognition
 -->
+
+Also interesting
+* [Stanford Psych225 / CS322: Neuroscience, Psychology, and AI](https://cs322.stanford.edu/)
+
+## Deep Learning and Artificial Intelligence
+
+* [Robotics](https://16-884.github.io/lectures/)
+* [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse-fa22/)
+* [Embodied Intelligence](https://phillipi.github.io/6.882/2020/schedule.html)
+
 ## Other
 
 * ECON 162: The Chinese Economy
