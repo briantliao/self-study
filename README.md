@@ -54,9 +54,16 @@ I also like
 * NUEVO DELE B1: https://www.amazon.com/dp/B08S1C29C9
 * NUEVO DELE B2: https://www.amazon.com/dp/B092TVGZPN
 
-## Other
+## Programming
 
-### ECON 162: The Chinese Economy
+### C++
+
+* [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+
+### Django
+
+* [Django 3 - Full Stack Websites with Python Web Development](https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/)
+* [Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
 
 ## Chemistry
 
@@ -64,3 +71,11 @@ I also like
 * CHEM 3A Organic Chemistry
 * CHEM 3B Organic Chemistry II
 * MCELLBI 102 Biochemistry
+
+## Other
+
+### ECON 162: The Chinese Economy
+
+### Music Production
+
+* [Ableton Live 11 - Music Production in Ableton Live](https://www.udemy.com/course/ableton-live-11-course/)
