@@ -78,6 +78,19 @@ I also like
 * MCELLBI 161: Circuit, Systems and Behavioral Neuroscience
 * MCELLBI 165:	Neurobiology of Disease
 
+## Pyschology and Cognitive Science
+
+* PSYCH 110: Introduction to Biological Psychology
+* PSYCH 117: Human Neuropsychology
+* PSYCH 124: The Evolution of Human Behavior
+* PSYCH 125: The Developing Brain
+* PSYCH 130: Clinical Psychology
+<!-- * PSYCH 131: Developmental Psychopathology -->
+* PSYCH 140: Developmental Psychology
+<!-- * PSYCH 141: Development During Infancy -->
+* PSYCH 160: Social Psychology
+<!-- * PSYCH 164: Social Cognition -->
+
 ## Other
 
 * ECON 162: The Chinese Economy
