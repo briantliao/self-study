@@ -49,8 +49,8 @@ I also like
 
 [Berkeley SPANISH 1, 2, 3, 4, 102A](https://guide.berkeley.edu/undergraduate/degree-programs/spanish-portuguese/#majorrequirementstext)
 
-* Nuevo DELE A1: https://www.amazon.com/dp/B08D113B7T
-* Nuevo DELE A2: https://www.amazon.com/dp/B083G425KZ
+* NUEVO DELE A1: https://www.amazon.com/dp/B08D113B7T
+* NUEVO DELE A2: https://www.amazon.com/dp/B083G425KZ
 * NUEVO DELE B1: https://www.amazon.com/dp/B08S1C29C9
 * NUEVO DELE B2: https://www.amazon.com/dp/B092TVGZPN
 
