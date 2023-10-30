@@ -86,12 +86,12 @@ I also like
 * PSYCH 117: Human Neuropsychology
 * PSYCH 125: The Developing Brain
 * PSYCH 140: Developmental Psychology
-* COG SCI C100/PSYCH C120: Basic Issues in Cognition
 * PSYCH 124: The Evolution of Human Behavior
-* PSYCH 130: Clinical Psychology
 * PSYCH 160: Social Psychology
-* PSYCH C162/L&S C160V: Human Happiness
+* COG SCI C100/PSYCH C120: Basic Issues in Cognition
 * COG SCI C126/PSYCH C126: Perception
+* PSYCH C162/L&S C160V: Human Happiness
+* PSYCH 130: Clinical Psychology
 
 <!--
 * PSYCH 131: Developmental Psychopathology
