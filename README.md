@@ -45,12 +45,22 @@ I also like
 * New Kanzen Master N3 JLPT: https://www.amazon.com/dp/B07B2NYCBW
 * New Kanzen Master N2 JLPT: https://www.amazon.com/dp/B07B2N1XGN
 
-### Chemistry
+### Spanish
 
+[Berkeley SPANISH 1, 2, 3, 4, 102A](https://guide.berkeley.edu/undergraduate/degree-programs/spanish-portuguese/#majorrequirementstext)
 
+* Nuevo DELE A1: https://www.amazon.com/dp/B08D113B7T
+* Nuevo DELE A2: https://www.amazon.com/dp/B083G425KZ
+* NUEVO DELE B1: https://www.amazon.com/dp/B08S1C29C9
+* NUEVO DELE B2: https://www.amazon.com/dp/B092TVGZPN
 
-## Others
+## Other
 
-### Econ 162: The Chinese Economy
+### ECON 162: The Chinese Economy
 
+## Chemistry
 
+* CHEM 1A General Chemistry
+* CHEM 3A Organic Chemistry
+* CHEM 3B Organic Chemistry II
+* MCELLBI 102 Biochemistry
