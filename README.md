@@ -6,7 +6,7 @@ Self Studying is fun!
 
 ### Chinese
 
-[Berkeley: Chinese 1A, 1B, 10A, 10B, 100A, 100B](https://ealc.berkeley.edu/programs/undergraduate/undergraduate-requirements/chinese-requirements)
+[Berkeley: CHINESE 1A, 1B, 10A, 10B, 100A, 100B](https://ealc.berkeley.edu/programs/undergraduate/undergraduate-requirements/chinese-requirements)
 
 * HSK Standard Course 1 SET - Textbook + Workbook: https://www.amazon.com/dp/B07PRPG8QV
 * HSK Standard Course 2 SET - Textbook + Workbook: https://www.amazon.com/dp/B07PNSZSYZ
@@ -67,14 +67,20 @@ I also like
 
 ## Chemistry
 
-* CHEM 1A General Chemistry
-* CHEM 3A Organic Chemistry
-* CHEM 3B Organic Chemistry II
-* MCELLBI 102 Biochemistry
+* CHEM 1A: General Chemistry
+* CHEM 3A: Organic Chemistry
+* CHEM 3B: Organic Chemistry II
+* MCELLBI 102: Biochemistry
+
+## Neurobiology
+
+* MCELLBI 160: Cellular and Molecular Neurobiology
+* MCELLBI 161: Circuit, Systems and Behavioral Neuroscience
+* MCELLBI 165:	Neurobiology of Disease
 
 ## Other
 
-### ECON 162: The Chinese Economy
+* ECON 162: The Chinese Economy
 
 ### Music Production
 
