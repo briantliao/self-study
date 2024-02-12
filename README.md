@@ -56,15 +56,6 @@ I also like
 
 ## Programming
 
-### C++
-
-* [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
-
-### Django
-
-* [Django 3 - Full Stack Websites with Python Web Development](https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/)
-* [Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
-
 ## Chemistry
 
 * CHEM 1A: General Chemistry
@@ -72,16 +63,30 @@ I also like
 * CHEM 3B: Organic Chemistry II
 * MCELLBI 102: Biochemistry
 
+## Bio-engineering and Medicine
+
+* CRISPR/Cas9 + Base Editing + Prime Editing
+* CAR-T Cell Therapy
+* mRNA Vaccines
+* Directed Evolution of Enzymes
+
 ## Neurobiology
 
+* [MIT 9.13 The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)
+
+<!--
 * MCELLBI 160: Cellular and Molecular Neurobiology
 * MCELLBI 161: Circuit, Systems and Behavioral Neuroscience
-* MCELLBI 165:	Neurobiology of Disease
+* MCELLBI 165: Neurobiology of Disease
+-->
 
 ## Pyschology and Cognitive Science
 
 * COG SCI C127/PSYCH C127: Cognitive Neuroscience
 * PSYCH 110: Introduction to Biological Psychology
+
+
+<!--
 * COG SCI C102/PSYCH C129: Scientific Approaches to Consciousness
 * PSYCH 117: Human Neuropsychology
 * PSYCH 125: The Developing Brain
@@ -93,7 +98,6 @@ I also like
 * PSYCH C162/L&S C160V: Human Happiness
 * PSYCH 130: Clinical Psychology
 
-<!--
 * PSYCH 131: Developmental Psychopathology
 * PSYCH 141: Development During Infancy
 * PSYCH 164: Social Cognition
@@ -102,16 +106,19 @@ I also like
 Also interesting
 * [Stanford Psych225 / CS322: Neuroscience, Psychology, and AI](https://cs322.stanford.edu/)
 
+## Economics
+
+* ECON 162: The Chinese Economy
+
+## Math
+
+* Complex Analysis
+  * A First Course In Complex Analysis by Matthias Beck
+  * [MIT 18.04 Complex Variables with Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
+  * [ETH Zurich Complex Analysis](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
+
 ## Deep Learning and Artificial Intelligence
 
 * [Robotics](https://16-884.github.io/lectures/)
 * [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse-fa22/)
 * [Embodied Intelligence](https://phillipi.github.io/6.882/2020/schedule.html)
-
-## Other
-
-* ECON 162: The Chinese Economy
-
-### Music Production
-
-* [Ableton Live 11 - Music Production in Ableton Live](https://www.udemy.com/course/ableton-live-11-course/)
