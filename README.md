@@ -67,7 +67,6 @@ I also like
 
 * CRISPR/Cas9 + Base Editing + Prime Editing
 * CAR-T Cell Therapy
-* mRNA Vaccines
 * Directed Evolution of Enzymes
 
 ## Neurobiology
@@ -84,7 +83,6 @@ I also like
 
 * COG SCI C127/PSYCH C127: Cognitive Neuroscience
 * PSYCH 110: Introduction to Biological Psychology
-
 
 <!--
 * COG SCI C102/PSYCH C129: Scientific Approaches to Consciousness
@@ -103,16 +101,17 @@ I also like
 * PSYCH 164: Social Cognition
 -->
 
-Also interesting
-* [Stanford Psych225 / CS322: Neuroscience, Psychology, and AI](https://cs322.stanford.edu/)
-
 ## Economics
 
 * ECON 162: The Chinese Economy
 
 ## Math
 
-* Complex Analysis
+* Math 53: Multivariable Calculus
+* Math 104: Real Analysis
+* Math 113: Abstract Algebra
+* Differential Equations
+* Math 185: Complex Analysis
   * A First Course In Complex Analysis by Matthias Beck
   * [MIT 18.04 Complex Variables with Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
   * [ETH Zurich Complex Analysis](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
