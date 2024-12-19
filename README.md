@@ -119,5 +119,5 @@ I also like
 ## Deep Learning and Artificial Intelligence
 
 * [Robotics](https://16-884.github.io/lectures/)
-* [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse-fa22/)
-* [Embodied Intelligence](https://phillipi.github.io/6.882/2020/schedule.html)
+* [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+* [Embodied Intelligence](https://phillipi.github.io/6.s953/2024/schedule.html)
