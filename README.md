@@ -68,6 +68,7 @@ I also like
 * CRISPR/Cas9 + Base Editing + Prime Editing
 * CAR-T Cell Therapy
 * Directed Evolution of Enzymes
+* Computational Protein Design
 
 ## Neurobiology
 
@@ -121,3 +122,14 @@ I also like
 * [Robotics](https://16-884.github.io/lectures/)
 * [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 * [Embodied Intelligence](https://phillipi.github.io/6.s953/2024/schedule.html)
+
+* Evolution of Machine Learning Models/AutoML
+  * [AutoML: Automated Machine Learning (2018)](https://www.youtube.com/live/zVA5Pg8FVW4?si=ElkDJ3-KKrK-D-n7)
+  * [AutoML-Zero: Evolving Code that Learns (2020)](https://research.google/blog/automl-zero-evolving-code-that-learns/)
+  * [Evolving Reinforcement Learning Algorithms (2021)](https://research.google/blog/evolving-reinforcement-learning-algorithms/)
+  * [Evolved Optimizer for Vision (2022)](https://openreview.net/pdf?id=jK_eS5BxOuu)
+  * [Symbolic Discovery of Optimization Algorithms (2023)](https://arxiv.org/pdf/2302.06675)
+  * [Evolving Pareto-Optimal Actor-Critic Algorithms for Generalizability and Stability (2023)](https://arxiv.org/pdf/2204.04292)
+  * [Discovering Adaptable Symbolic Algorithms from Scratch (2023)](https://arxiv.org/pdf/2307.16890)
+  * [AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions (2023)](https://arxiv.org/pdf/2312.08472)
+  * [Guided Evolution with Binary Discriminators for ML Program Search (2024)](https://arxiv.org/pdf/2402.05821)
