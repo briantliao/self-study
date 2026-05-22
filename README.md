@@ -58,6 +58,9 @@ I also like
 
 [Berkeley FRENCH 1, 2, 3, 4, 102](https://french.berkeley.edu/undergraduate/french-major)
 
+* Chez nous: Branché sur le monde francophone (French 1-3): https://www.amazon.com/dp/0134782844
+* Réseau: Communication, Intégration, Intersections
+
 ## Programming
 
 ## Chemistry
